@@ -33,3 +33,6 @@ It showcases featured shoes, a product catalog, an about section, and a function
 ---
 
 **Author:** Obaloluwa Olajide  
+**Live link:** *https://shoe-store-obaloluwa.vercel.app/*
+
+
